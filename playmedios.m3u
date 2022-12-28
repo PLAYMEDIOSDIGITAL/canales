@@ -2,3 +2,7 @@
 #EXTINF: -1,PLAYMEDIOS TELEVISION 
 
 https://inliveserver.com:1936/9520/9520/playlist.m3u8
+
+#EXTINF: -1,PLAYMEDIOS MUSICA
+
+https://inliveserver.com:1936/9522/9522/playlist.m3u8
