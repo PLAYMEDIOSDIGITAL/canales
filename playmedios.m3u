@@ -3,3 +3,5 @@
 #EXTINF: -1,PLAYMEDIOS TELEVISION HD
 https://rpn3.bozztv.com/ssh101/ssh101/playmedios/playlist.m3u8
 
+#EXTINF: -2,PLAYMEDIOS TELEVISION
+https://rpn3.bozztv.com/ssh101/ssh101/playmedioshd/playlist.m3u8
