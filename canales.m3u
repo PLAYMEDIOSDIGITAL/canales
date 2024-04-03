@@ -3,3 +3,7 @@
 
 https://rpn3.bozztv.com/ssh101/ssh101/playmedios/playlist.m3u8
 
+#EXTINF: -2,SRT
+srt://srt.bozztv.com:7777?streamid=/ssh101/playmedios
+
+
