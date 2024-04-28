@@ -1,9 +1,6 @@
 #EXTM3U
 #EXTINF: -1,PLAYMEDIOS
 
-https://rpn3.bozztv.com/ssh101/ssh101/playmedios/playlist.m3u8
-
-#EXTINF: -2,sin retraso
-https://ssh101.com/sldp/index.php?id=playmedios
+https://ssh101-fl.bozztv.com/ssh101/playmedios/index.m3u8
 
 
