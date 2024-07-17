@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF: -1,PLAYMEDIOS
 https://ssh101-fl.bozztv.com/ssh101/playmedios/index.m3u8
+#EXTINF: -2,PLAYMEDIOS
+srt://srt.bozztv.com:7777/ssh101/pm
+#EXTINF: -3,PLAYMEDIOS
+https://ssh101-fl.bozztv.com/ssh101/pm/index.m3u8
