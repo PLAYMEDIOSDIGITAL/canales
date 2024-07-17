@@ -1,4 +1,6 @@
 #EXTM3U
 
 #EXTINF: -1,PLAYMEDIOS TELEVISION HD
-https://ssh101-fl.bozztv.com/ssh101/playmedios/index.m3u8
+https://ssh101-fl.bozztv.com/ssh101/pm/index.m3u8
+#EXTINF: -2,PLAYMEDIOS TELEVISION HD
+https://glb.bozztv.com/glb/ssh101/playmedios/index.m3u8
